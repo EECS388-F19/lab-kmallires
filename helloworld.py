@@ -1,8 +1,8 @@
 import random
 
 print("Kevin")
-a = random.randrange(0, 100)
-b = random.randrange(0, 100)
+a = random.randrange(1, 100)
+b = random.randrange(1, 100)
 print(a)
 print(b)
 print("Sum = ", a + b)
